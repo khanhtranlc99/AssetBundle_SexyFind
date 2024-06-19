@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1195534978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa10ba2ceb7f4fb4766607da8cf28425
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aa10ba2ceb7f4fb4766607da8cf28425
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_16_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_7_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_20_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_22_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_9_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_8_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_23_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_7_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_21_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_15_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_20_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_24_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_10_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_14_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_8_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_16_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_22_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_17_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_14_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_24_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_18_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_19_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_11_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_18_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_12_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_13_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_11_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_9_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_13_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_19_A.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_17_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_10_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_23_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_21_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_12_B.jpg
+- Assets/Bundle/Texture/Bundle_Daily_Sever/Daily_15_B.jpg
+Dependencies: []

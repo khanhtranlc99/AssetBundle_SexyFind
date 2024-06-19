@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2157574216
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bundle_daily_sever
+      Dependencies: {}
+    Info_1:
+      Name: bundle_local
+      Dependencies: {}
+    Info_2:
+      Name: bundle_sever
+      Dependencies: {}

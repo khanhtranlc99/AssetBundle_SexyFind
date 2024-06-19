@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 1870904504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8837bd954f907e50a9f06ed846a976a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8837bd954f907e50a9f06ed846a976a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/Texture/Bundle_Local/Level_5_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_13_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_2_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_3_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_14_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_11_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_16_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_10_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_1_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_14_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_3_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_6_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_2_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_19_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_3_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_6_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_13_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_1_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_17_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_9_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_1_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_15_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_3_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_12_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_5_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_8_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_6_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_4_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_2_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_6_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_19_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_7_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_0_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_2_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_5_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_10_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_0_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_5_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_18_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_1_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_4_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_18_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_9_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_17_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_4_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_12_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_7_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Daily_4_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_8_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_16_A.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_15_B.jpg
+- Assets/Bundle/Texture/Bundle_Local/Level_11_B.jpg
+Dependencies: []
